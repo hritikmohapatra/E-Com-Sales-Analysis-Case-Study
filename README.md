@@ -1,5 +1,7 @@
 # E-Commerce Sales Analysis Case Study
 
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzMzMmZkMTUtMmEwNi00MGQzLTg2MDYtNTM3ZDZmZTFkYTlkIiwidCI6IjUyMDBmN2QxLTBjNjItNGIxZS04ZDVkLWE2ODBlZjlmZWViNiIsImMiOjF9)
+
 This is the E-Commerce Sales Analysis report using Microsoft SQL and Microsoft Power BI.
 
 ![ecom1](https://user-images.githubusercontent.com/53110765/226639280-dc586680-519e-4c65-88b2-64a3ce0173f4.png)
